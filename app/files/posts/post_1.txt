@@ -1,0 +1,2 @@
+|1|Welcome|To add some news use the url:<br><br>yoursite.bla/app/adm/?x=b6504068aef694385c8ae9616878d7a1<br>|1|08-Oct-2016 12:03
+<!--3e296aba6e3ea5fa1f7805090dcb30c3-->
