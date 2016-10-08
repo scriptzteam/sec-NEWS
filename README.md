@@ -1,7 +1,13 @@
 # sec-NEWS
 sec:NEWS is a popular general-purpose script that is especially suited to make web development faster.
 
-sec:NEWS do NOT use MySQL, it pure use plain text as post/news storage, it is fast and secure.
+sec:NEWS do NOT use MySQL, it pure use plain text as post/news storage, it is fast and secure. Contain basic search, admin panel with simple "wysiwyg" text area.
+
+Planned: 
+`Importing posts/news from RSS`    
+`Restrict Admin Panel by IPs`    
+`Creating Accounts for posting posts/news`    
+`More? Create Issue and tag it as [FEATURE]`
 
 ![alt tag](http://i.imgur.com/lwwbFSZ.png)
 
