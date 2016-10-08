@@ -1,6 +1,8 @@
 # sec-NEWS
 sec:NEWS is a popular general-purpose script that is especially suited to make web development faster.
 
+![alt tag](http://i.imgur.com/lwwbFSZ.png)
+
 To add some news use the url: 
 http://yoursite.bla/app/adm/?x=b6504068aef694385c8ae9616878d7a1
 
